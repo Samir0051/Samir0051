@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samir0051
 - 👀 I’m interested in exploring computer science and its many facets
-- 🌱 I’m currently learning data structures and algorithms 
+- 🌱 I’m currently learning discrete math
 - 📫 How to reach me ses2313@columbia.edu
 
 <!---
