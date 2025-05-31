@@ -17,3 +17,5 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samir0051&&size_weight=0.075&count_weight=0.075&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/Samir0051/github-readme-stats)
 
 </div>
+
+![Snake animation](https://github.com/Samir0051/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
