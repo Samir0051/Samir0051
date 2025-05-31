@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -7,24 +7,24 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
+
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: Samir0051
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: List files in dist directory
-        run: ls -l dist/
+      - name: List files in dist
+        run: ls -l dist
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Publish SVG to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Update GitHub snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
