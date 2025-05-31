@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-![Snake animation](https://github.com/Samir0051/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Samir0051/Samir0051/blob/output/github-contribution-grid-snake.svg)
