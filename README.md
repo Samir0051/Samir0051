@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
 <p align="center">
-  💻 Aspiring Software Engineer • 🎓 Junior @ Columbia University • 🔍 Exploring the world of CS
+  💻 Aspiring Software Engineer • 🎓 Rising Senior @ Columbia University • 🔍 Exploring the world of CS
 </p>
 
 <p align="center">
