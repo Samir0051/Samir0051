@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samir0051
+👋 Hi, I’m @Samir0051 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 - 👀 I’m interested in exploring computer science and its many facets
 - 🌱 Junior @ Columbia
 - 📫 How to reach me ses2313@columbia.edu
