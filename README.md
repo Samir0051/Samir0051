@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 - 👋 Hi, I’m @Samir0051
 - 👀 I’m interested in exploring computer science and its many facets
 - 🌱 Junior @ Columbia
